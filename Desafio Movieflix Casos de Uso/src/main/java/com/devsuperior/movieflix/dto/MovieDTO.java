@@ -1,6 +1,9 @@
 package com.devsuperior.movieflix.dto;
 
+import com.devsuperior.movieflix.entities.Genre;
 import com.devsuperior.movieflix.entities.Movie;
+
+import java.util.Set;
 
 public class MovieDTO {
 
