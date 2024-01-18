@@ -22,8 +22,8 @@ https://www.figma.com/file/6JQVnxKgKtVHLleSBBgRin/MovieFlix-front-listagem
 3. [IN] O usuário membro informa, opcionalmente, um texto para avaliação do filme.
 4. [OUT] O sistema apresenta os dados atualizados, já aparecendo também a avaliação feita pelo usuário.
 
-Exceção 3.1 - ### Texto vazio
-3.1.1. O sistema apresenta uma mensagem de que não é permitido texto vazio na avaliação 
+### Exceção 3.1 - Texto vazio
+   3.1.1. O sistema apresenta uma mensagem de que não é permitido texto vazio na avaliação 
 
 
 
