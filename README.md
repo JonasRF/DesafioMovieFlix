@@ -1,5 +1,5 @@
 # Desafio Movieflix casos de uso
-Implemente as funcionalidades necessárias para que os testes do projeto abaixo passem (assista o vídeo explicativo e baixe o projeto no conteúdo anexo ao vídeo).
+Implemente as funcionalidades necessárias para que os testes do projeto abaixo passem.
 
 
 ### Protótipos de tela
